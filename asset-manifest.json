@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Xenon/static/css/main.f96f07a4.css",
+    "main.js": "/Xenon/static/js/main.67578dd8.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/Xenon/static/js/787.9e9f4ffd.chunk.js",
+    "index.html": "/Xenon/index.html",
+    "main.f96f07a4.css.map": "/Xenon/static/css/main.f96f07a4.css.map",
+    "main.67578dd8.js.map": "/Xenon/static/js/main.67578dd8.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/Xenon/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.67578dd8.js"
+  ]
+}
